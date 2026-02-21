@@ -12,4 +12,11 @@ A simple animated circular loader built using pure CSS.
 - HTML
 - CSS
 
+-## Preview
+
+<p align="center">
+  <img src="preview.png" width="350">
+</p> 
+
 Created as part of my frontend learning journey.
+
